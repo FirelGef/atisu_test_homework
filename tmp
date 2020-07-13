@@ -1,0 +1,1 @@
+sudo /usr/local/rle/bin/ttdump -f 2020.06.08.22-tt.db -f 2020.06.08.22-tt3.db -f 2020.06.08.22-tt4.db -f 2020.06.08.22-tt5.db -f 2020.06.08.22-tt6.db -f 2020.06.08.22-tt7.db -f 2020.06.08.22-tt8.db -u /tmp/ttdump/ammo.uids -o /tmp/ttdump/ttall.db -e 1591632042
